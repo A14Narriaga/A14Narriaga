@@ -1,11 +1,9 @@
-
-
-<!-- <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
-</p> -->
-
-<h1>Hi, I'm Alan Arriaga <img src="https://media.giphy.com/media/LPkczVwUYcMbXsRCdP/giphy.gif" width="30" /><img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="30" />
-</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48663005/151894584-79020ad5-873e-43ed-b61b-478a75dd08c9.svg" width="90" />
+</p>
+<h2 align="center">
+  Hi, I'm Alan Arriaga 
+</h2>
 
 ```js
 import SoftwareDeveloper from 'arriagaalan';
