@@ -11,9 +11,13 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'TypeScript'];
-  databases  = ['MySQL'];
-  frameworks = ['React', 'Angular', 'NestJS'];
+  design     = ['Figma'];
+  frontend   = ['React', 'Angular'];
+  backend    = ['NodeJS', 'NestJS', 'GraphQL'];
+  databases  = ['MariaDB', 'MongoDB'];
+  testing    = ['Vitest', 'Jest']
+  deployment = ['Docker']
+  control    = ['Git']
 }
 ```
 
