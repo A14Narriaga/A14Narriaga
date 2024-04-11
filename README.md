@@ -1,7 +1,7 @@
-<img src="https://user-images.githubusercontent.com/48663005/153057162-13ac5901-81e6-4b8b-a2a1-95a63a0b6d63.jpg" />
+<img src="https://previews.dropbox.com/p/thumb/ACNrIeLxRD4MN7KJ9jqZnqijGw4krPZjB-qcSm8CCqg0binpHKGd-w5Zjdesy6t9BEHMoENLYaomcZZ-BV7QR0d32vEFtHmv74fNFbNauLRQUejpd4yTJwk4Z0E2A7ni4i__sX0XYNEGgYkTiYu1PbmDfCFlrTZYUflPUbYNqnmQb_iEZqIOp-_7RKm6zw_iXFdakFPJ-tR8M0zAOrOpqM0h8cgscNpSmD10x7GfYYEkFoZRyNRE-7peBuMTkHGw9wp3NdmPls6juchfSHMAvnN_-EhYYiycO-T85nAZlxQWI_ipf6vVnirvj2IT0ZE5n2sags6Ki10WGLkuXjLH6TdE/p.png" />
 
 ```js
-import SoftwareDeveloper from 'arriagaalan';
+import SoftwareDeveloper from 'A14Narriaga';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Alan Arriaga';
@@ -13,7 +13,7 @@ class Bio extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'TypeScript'];
   databases  = ['MySQL'];
-  frameworks = ['React', 'Angular'];
+  frameworks = ['React', 'Angular', 'NestJS'];
 }
 ```
 
